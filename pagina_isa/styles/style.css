@@ -121,7 +121,21 @@ body{
         width: auto;
     }
 
+    .apresentacao__conteudo__titulo{
+        font-size: 2.10rem;
+    }
+
+    .apresentacao__conteudo__texto{
+        font-size: 1.25rem;
+    }
+
     .apresentacao__imagem{
         width: 75%;
+    }
+
+    .apresentacao__links__navegacao{
+        width: 80%;
+        font-size: 1.2rem;
+        align-items: center;
     }
 }
