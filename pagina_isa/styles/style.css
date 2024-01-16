@@ -119,4 +119,8 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__links__navegacao{
+        gap: 0.5rem;
+    }
 }
