@@ -70,6 +70,7 @@ body{
     font-family: var(--fonte-primaria);
     font-weight: 400;
     font-size: 1.5rem;
+    text-align: center;
 }
 .apresentacao__links__navegacao{
     display: flex;
@@ -120,7 +121,7 @@ body{
         width: auto;
     }
 
-    .apresentacao__links__navegacao{
-        gap: 0.5rem;
+    .apresentacao__imagem{
+        width: 75%;
     }
 }
